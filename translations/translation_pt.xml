@@ -2,99 +2,100 @@
 <l10n>
 	<texts>
 
-		<text name="CP_activated" 																		text="activated" />
-		<text name="CP_deactivated" 																	text="deactivated" />
-		<text name="CP_unit_meter" 																		text="m" />
+		<text name="CP_activated" 																		text="ativado" />
+		<text name="CP_deactivated" 																	text="desativado" />
+		<text name="CP_unit_meter" 																		text="metros" />
 
 		<!-- User info text -->
-		<text name="CP_infoText"																		text="Courseplay(%s): For help, bug reports or patch notes, please visit: https://github.com/Courseplay/Courseplay_FS22." />
-		<text name="CP_error_no_course"																	text="Generate a course before starting the job." />
-		<text name="CP_error_not_on_field"																text="Target is not on a field." />
+		<text name="CP_infoText"																		text="Courseplay(%s): Para obter ajuda, relatórios debug ou notas de patch, visite: https://github.com/Courseplay/Courseplay_FS22." />
+		<text name="CP_error_no_course"																	text="Gere um curso antes de iniciar o trabalho." />
+		<text name="CP_error_not_on_field"																text="O alvo não está em um campo." />
 
 
 	<!-- AI job menu -->
-		<text name="CP_jobParameters_subTitle_startAt"													text="Start at:" />
-		<text name="CP_jobParameters_startAt_title"														text="Start at:" />
-		<text name="CP_jobParameters_startAt_tooltip"													text="Where to start field work" />
-		<text name="CP_jobParameters_startAt_nearest"													text="nearest waypoint" />
-		<text name="CP_jobParameters_startAt_first"														text="first waypoint" />
-		<text name="CP_jobParameters_startAt_unload"													text="unloading combine/chopper" />
-		<text name="CP_jobParameters_startAt_bales"														text="collecting/wrapping bales" />
+		<text name="CP_jobParameters_subTitle_startAt"													text="Começa a:" />
+		<text name="CP_jobParameters_startAt_title"														text="Começa a:" />
+		<text name="CP_jobParameters_startAt_tooltip"													text="Onde começar o trabalho de campo" />
+		<text name="CP_jobParameters_startAt_nearest"													text="ponto de passagem mais próximo" />
+		<text name="CP_jobParameters_startAt_first"														text="primeiro ponto de passagem" />
+		<text name="CP_jobParameters_startAt_unload"													text="descarregando colheitadeira/chopper" />
+		<text name="CP_jobParameters_startAt_bales"														text="coleta/embalagem de fardos" />
 
 
 	<!--Drivemodes-->
-		<text name="FIELDWORK_CP"																		text="CP: Fieldwork" />
+		<text name="FIELDWORK_CP"																		text="CP: Trabalho de campo" />
 	<!--Generate course button-->
-		<text name="CP_ai_page_generate_course" 														text="CP: Generate fieldwork course." />
-		<text name="CP_ai_page_open_course_generator" 													text="CP: Open/close course generator." />
+		<text name="CP_ai_page_generate_course" 														text="CP: Gerar curso de trabalho de campo." />
+		<text name="CP_ai_page_open_course_generator" 													text="CP: Abrir/fechar gerador de curso." />
 
 	<!-- VehicleSettings -->
-		<text name="CP_vehicle_setting_title"															text="Vehicle settings for (%s)"/>
+		<text name="CP_vehicle_setting_title"															text="Configurações do veículo para (%s)"/>
 		
 		<!--Titel-->
-		<text name="CP_vehicle_setting_subTitle_basic"													text="Basic settings"/>
-		<text name="CP_vehicle_setting_subTitle_implement"												text="Tools settings"/>
-		<text name="CP_vehicle_setting_subTitle_combine"												text="Combine settings"/>
-		<text name="CP_vehicle_setting_subTitle_seeder"													text="Seeder settings"/>
-		<text name="CP_vehicle_setting_subTitle_multitool"												text="Multitool settings"/>
-		<text name="CP_vehicle_setting_subTitle_speed" 													text="Speeds"/>
-		<text name="CP_vehicle_setting_subTitle_debug" 													text="Debug settings"/>
+		<text name="CP_vehicle_setting_subTitle_basic"													text="Configurações básicas"/>
+		<text name="CP_vehicle_setting_subTitle_implement"												text="Configurações ferramentas"/>
+		<text name="CP_vehicle_setting_subTitle_combine"												text="Ceifeira configurações"/>
+		<text name="CP_vehicle_setting_subTitle_seeder"													text="Configurações semeador"/>
+		<text name="CP_vehicle_setting_subTitle_multitool"												text="Configurações ferramentas múltiplas"/>
+		<text name="CP_vehicle_setting_subTitle_speed" 													text="Velocidades"/>
+		<text name="CP_vehicle_setting_subTitle_debug" 													text="Debug definições"/>
 		<!--Settings-->
-		<text name="CP_vehicle_setting_showCourse_title" 												text="Show course"/>
-		<text name="CP_vehicle_setting_showCourse_tooltip" 												text="Show the current course of the vehicle"/>
+		<text name="CP_vehicle_setting_showCourse_title" 												text="Mostrar curso"/>
+		<text name="CP_vehicle_setting_showCourse_tooltip" 												text="Mostra o curso atual do veículo"/>
 
-		<text name="CP_vehicle_setting_showCourse_startStop" 											text="Start/stop only"/>
-		<text name="CP_vehicle_setting_showCourse_all" 													text="All waypoints"/>
+		<text name="CP_vehicle_setting_showCourse_startStop" 											text="Inicio/Fim apenas"/>
+		<text name="CP_vehicle_setting_showCourse_all" 													text="Todos os pontos de passagem"/>
 
-		<text name="CP_vehicle_setting_stopAtEnd_title" 												text="Stop at end"/>
-		<text name="CP_vehicle_setting_stopAtEnd_tooltip" 												text="Stop at end"/>
+		<text name="CP_vehicle_setting_stopAtEnd_title" 												text="Parar no final"/>
+		<text name="CP_vehicle_setting_stopAtEnd_tooltip" 												text="Parar no final"/>
 
-		<text name="CP_vehicle_setting_allowReversePathfinding_title" 									text="Allow reverse for pathfinding"/>
-		<text name="CP_vehicle_setting_allowReversePathfinding_tooltip" 								text="When applicable, allow the pathfinder to generate courses containing reverse driving"/>
+		<text name="CP_vehicle_setting_allowReversePathfinding_title" 									text="Permitir reverso para encontrar o caminho"/>
+		<text name="CP_vehicle_setting_allowReversePathfinding_tooltip" 								text="Quando aplicável, permita que o localizador de caminho gere cursos contendo direção reversa"/>
 
-		<text name="CP_vehicle_setting_foldImplementAtEnd_title" 										text="Fold tools at course end"/>
-		<text name="CP_vehicle_setting_foldImplementAtEnd_tooltip" 										text="Enables/disables automatic folding of implements at the end of the course."/>
+		<text name="CP_vehicle_setting_foldImplementAtEnd_title" 										text="Ferramenta dobra no final do curso"/>
+		<text name="CP_vehicle_setting_foldImplementAtEnd_tooltip" 										text="Ativa/desativa a dobragem automática de implementos no final do curso."/>
 
-		<text name="CP_vehicle_setting_raiseImplementLate_title" 										text="Tool raising"/>
-		<text name="CP_vehicle_setting_raiseImplementLate_tooltip" 										text="Tool raising early or late at the start of a turn."/>
-		<text name="CP_vehicle_setting_raiseImplementLate_early" 										text="early"/>
-		<text name="CP_vehicle_setting_raiseImplementLate_late" 										text="late"/>
+		<text name="CP_vehicle_setting_raiseImplementLate_title" 										text="Levantamento de ferramenta"/>
+		<text name="CP_vehicle_setting_raiseImplementLate_tooltip" 										text="Levantamento da ferramenta mais cedo ou mais tarde no início de uma curva."/>
+		<text name="CP_vehicle_setting_raiseImplementLate_early" 										text="Cedo"/>
+		<text name="CP_vehicle_setting_raiseImplementLate_late" 										text="Tarde"/>
 
-		<text name="CP_vehicle_setting_lowerImplementEarly_title" 										text="Tool lowering"/>
-		<text name="CP_vehicle_setting_lowerImplementEarly_tooltip" 									text="Tool lowering early or late at the end of a turn."/>
-		<text name="CP_vehicle_setting_lowerImplementEarly_early" 										text="early"/>
-		<text name="CP_vehicle_setting_lowerImplementEarly_late" 										text="late"/>
+		<text name="CP_vehicle_setting_lowerImplementEarly_title" 										text="Baixar ferramenta"/>
+		<text name="CP_vehicle_setting_lowerImplementEarly_tooltip" 									text="Ferramenta abaixando cedo ou tarde no final de uma curva."/>
+		<text name="CP_vehicle_setting_lowerImplementEarly_early" 										text="Cedo"/>
+		<text name="CP_vehicle_setting_lowerImplementEarly_late" 										text="Tarde"/>
 
-		<text name="CP_vehicle_setting_turnOnField_title" 												text="Only turning on the field"/>
-		<text name="CP_vehicle_setting_turnOnField_tooltip" 											text="Only turning on the field. Not possible with all tools."/>
+		<text name="CP_vehicle_setting_turnOnField_title" 												text="Apenas virando no campo"/>
+		<text name="CP_vehicle_setting_turnOnField_tooltip" 											text="Apenas virando no campo. Não é possível com todas as ferramentas."/>
 
-		<text name="CP_vehicle_setting_avoidFruit_title" 												text="Avoid driving in fruit"/>
-		<text name="CP_vehicle_setting_avoidFruit_tooltip" 							  					text="The AI will try to avoid driving in the fruit"/>
+		<text name="CP_vehicle_setting_avoidFruit_title" 												text="Evite dirigir na cultura"/>
+		<text name="CP_vehicle_setting_avoidFruit_tooltip" 							  					text="O IA tentará evitar dirigir na cultura"/>
 
-		<text name="CP_vehicle_setting_toolOffsetX_title" 												text="Tool offset horizontal"/>
-		<text name="CP_vehicle_setting_toolOffsetX_tooltip" 											text="Tool offset horizontal"/>
+		<text name="CP_vehicle_setting_toolOffsetX_title" 												text="Deslocamento da ferramenta horizontal"/>
+		<text name="CP_vehicle_setting_toolOffsetX_tooltip" 											text="Deslocamento da ferramenta horizontal"/>
 
-		<text name="CP_vehicle_setting_toolOffsetZ_title" 												text="Tool offset vertical"/>
-		<text name="CP_vehicle_setting_toolOffsetZ_tooltip" 											text="Tool offset vertical"/>
+		<text name="CP_vehicle_setting_toolOffsetZ_title" 												text="Deslocamento da ferramenta vertical"/>
+		<text name="CP_vehicle_setting_toolOffsetZ_tooltip" 											text="Deslocamento da ferramenta vertical"/>
 
-		<text name="CP_vehicle_setting_turnDiameter_title" 												text="Turning circle width"/>
-		<text name="CP_vehicle_setting_turnDiameter_tooltip" 											text="Turning circle width"/>
+		<text name="CP_vehicle_setting_turnDiameter_title" 												text="Largura do círculo de viragem"/>
+		<text name="CP_vehicle_setting_turnDiameter_tooltip" 											text="Largura do círculo de viragem"/>
 	
-		<text name="CP_vehicle_setting_pipeAlwaysUnfold_title" 											text="Always unfold the pipe"/>
-		<text name="CP_vehicle_setting_pipeAlwaysUnfold_tooltip" 										text="Always unfold the pipe when combine is full and waiting for unloader."/>
+		<text name="CP_vehicle_setting_pipeAlwaysUnfold_title" 											text="Sempre desdobre o tubo"/>
+		<text name="CP_vehicle_setting_pipeAlwaysUnfold_tooltip" 										text="Sempre desdobre o tubo quando a ceifeira estiver cheia e esperar o descarregador."/>
 
-		<text name="CP_vehicle_setting_stopForUnload_title" 											text="Stop while unloading"/>
-		<text name="CP_vehicle_setting_stopForUnload_tooltip" 											text="Always stops driving, while unloading."/>
+		<text name="CP_vehicle_setting_stopForUnload_title" 											text="Pare enquanto descarrega"/>
+		<text name="CP_vehicle_setting_stopForUnload_tooltip" 											text="Parar de dirigir, ao descarregar."/>
 
-		<text name="CP_vehicle_setting_selfUnload_title" 												text="Combine self unload"/>
-		<text name="CP_vehicle_setting_selfUnload_tooltip" 							  					text="Combine drives to trailer on or near the field to unload."/>
+		<text name="CP_vehicle_setting_selfUnload_title" 												text="Ceifeira auto-descarrer"/>
+		<text name="CP_vehicle_setting_selfUnload_tooltip" 							  					text="A ceifeira irá para o reboque próximo ao campo para descarregar."/>
 
-		<text name="CP_vehicle_setting_unloadOnFirstHeadland_title" 									text="Unload on first headland"/>
-		<text name="CP_vehicle_setting_unloadOnFirstHeadland_tooltip" 				  					text="Combine will call the unloader on the first headland."/>
+		<text name="CP_vehicle_setting_unloadOnFirstHeadland_title" 									text="Descarregue no primeiro promontório"/>
+		<text name="CP_vehicle_setting_unloadOnFirstHeadland_tooltip" 				  					text="Ceifeira irá chamar o descarregador no primeiro promontório."/>
 
-		<text name="CP_vehicle_setting_strawSwath_title" 												text="Straw swath"/>
-		<text name="CP_vehicle_setting_strawSwath_tooltip" 												text="Enables/disables straw swath or only disables it on headlands."/>
-		<text name="CP_vehicle_setting_strawSwath_onlyCenter" 											text="Headlands disabled"/>
+		<text name="CP_vehicle_setting_strawSwath_title" 												text="Faixa de palha"/>
+		<text name="CP_vehicle_setting_strawSwath_tooltip" 												text="Habilita/desabilita faixa de palha ou desabilita apenas em cabeceiras."/>
+		<text name="CP_vehicle_setting_strawSwath_onlyCenter" 											text="Cabeceiras desativadas"/>		<!--First stop Stop/Reference point-->
+		
 
 		<text name="CP_vehicle_setting_ridgeMarkersAutomatic_title" 									text="Ridge markers"/>
 		<text name="CP_vehicle_setting_ridgeMarkersAutomatic_tooltip" 									text="Ridge markers on/off."/>
@@ -233,21 +234,21 @@
 
 	<!-- In game help menu-->
 		<text name="CP_help_title"																		text="Courseplay"/>
-		<text name="CP_help_page_courseManager_title"													text="Course manager"/>
-		<text name="CP_help_page_courseManager_text"													text="There are 7 different action available:
-- Creating a new directory.
-- Clearing the current vehicle course.
-- Saving the current course.
-- Loading a course.
-- Moving a course in to another directory.
-- Deleting a course or directory.
-- Renaming a course or directory."/>
+		<text name="CP_help_page_courseManager_title"													text="Gerente de curso"/>
+		<text name="CP_help_page_courseManager_text"													text="Existem 7 ações diferentes disponíveis:
+- Criação de um novo diretório.
+- Limpando o curso atual do veículo.
+- Salvando o curso atual.
+- Carregando um curso.
+- Movendo um curso para outro diretório.
+- Excluindo um curso ou diretório.
+- Renomeando um curso ou diretório."/>
 
 		<!-- Input bindings -->
-		<text name="input_CP_DBG_CHANNEL_SELECT_PREVIOUS" 												text="CP: Select next debug channel."/>
-		<text name="input_CP_DBG_CHANNEL_SELECT_NEXT" 													text="CP: Select previous debug channel."/>
-		<text name="input_CP_DBG_CHANNEL_TOGGLE_CURRENT"												text="CP: Change current debug channel."/>
-		<text name="input_CP_DBG_CHANNEL_MENU_VISIBILITY" 												text="CP: Shows debug channel menu yes/no."/>
-		<text name="input_CP_OPEN_CLOSE_VEHICLE_SETTING_DISPLAY" 										text = "CP: Open/close vehicle setting display"/>
+		<text name="input_CP_DBG_CHANNEL_SELECT_PREVIOUS" 												text="CP: Selecione o próximo canal debug ."/>
+		<text name="input_CP_DBG_CHANNEL_SELECT_NEXT" 													text="CP: Selecione o canal debug anterior."/>
+		<text name="input_CP_DBG_CHANNEL_TOGGLE_CURRENT"												text="CP: Alterar canal debug atual."/>
+		<text name="input_CP_DBG_CHANNEL_MENU_VISIBILITY" 												text="CP: Mostra o menu degug canal sim/não."/>
+		<text name="input_CP_OPEN_CLOSE_VEHICLE_SETTING_DISPLAY" 										text="CP: Abrir/fechar a tela de configuração do veículo"/>
 	</texts>
 </l10n>
