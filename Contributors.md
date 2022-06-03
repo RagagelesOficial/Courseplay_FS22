@@ -13,7 +13,7 @@
 * German: [RealNeo80](https://github.com/RealNeo80)
 * Italian: [Roby1164](https://github.com/Roby1164)
 * Polish: [KITT3000](https://github.com/KITT3000)
-* Portuguese: [Admilson](https://github.com/Admilson)
+* Portuguese: [Admilson](https://github.com/Admilson), [RagagelesOficial](https://github.com/RagagelesOficial)
 * Russian: [Gonimy-Vetrom](https://github.com/Gonimy-Vetrom)
 * Spanish: [KCHARRO](https://github.com/KCHARRO), [aorek](https://github.com/aorek)
 * Swedish: [piplarsson](https://github.com/piplarsson)
